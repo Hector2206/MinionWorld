@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177654884116",
+    "project_id": "miniumworld-9bded",
+    "storage_bucket": "miniumworld-9bded.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177654884116:android:f56803e50f89f439964401",
+        "android_client_info": {
+          "package_name": "com.example.minionworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqI-LWxXS1mpVmWrgJWfYr7frgr8CwrHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
